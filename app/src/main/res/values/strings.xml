@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Escolha a Resposta</string>
+    <string name="Questão">Quem Criou o Linux?</string>
+    <string-array name="Questao">
+        <item>Bill Gates </item>
+        <item>Steve Jobs</item>
+        <item>Linos Torvalds</item>
+        <item>Tanembaum</item>
+    </string-array>
+</resources>
